@@ -13,7 +13,7 @@ struct Index {
     .backgroundColor('#FFECECEC')
   }
 }
-
+// 创建子组件
 @Component
 struct Item {
  // 文本信息
